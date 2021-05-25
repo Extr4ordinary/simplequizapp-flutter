@@ -1,7 +1,7 @@
 # Simplequizapp
 
 <div class="row">
-  <img src="simplequizapp.png"/>
+  <img src="simplequizapp.jpg"/>
 </div>
 
 
