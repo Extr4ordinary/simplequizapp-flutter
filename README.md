@@ -5,8 +5,8 @@
 
 
 <div class="row">
-  <img src="images/simplequizapp.png" width="320">
- <img src="images/simplequizapp2.png" width="320">
+  <img src="images/simplequizapp.png" width="360">
+ <img src="images/simplequizapp2.png" width="360">
 </div>
 
 
